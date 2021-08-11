@@ -1,4 +1,4 @@
-#!/bin/zsh
+#!/bin/bash
 
 # Your cisco vpn binary path
 __VPN_ADDRESS=""
